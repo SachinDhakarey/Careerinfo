@@ -1,0 +1,31 @@
+nav{
+    color: white;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.card-deck{
+    margin: auto;
+    padding: 0%;
+}
+
+footer {
+    background-color: lightcoral;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 14px;
+    position: relative;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
