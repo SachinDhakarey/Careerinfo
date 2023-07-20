@@ -368,16 +368,3 @@ nav {
     .feature-container:nth-child(2) {
       order: -1;
     }
-    
-    /* SEARCH DISABLED ON MOBILE */
-    
-    #search-icon {
-      display: none;
-    }
-    
-    .search-input {
-    display: none;
-   }
-    
-  }
-  
