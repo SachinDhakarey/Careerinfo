@@ -11,8 +11,8 @@ nav {
   
   /* Card Deck */
   .card-deck {
-    margin: auto;
-    padding: 0;
+    margin: 0;
+    padding: 20px;
   }
   
   /* Footer */
