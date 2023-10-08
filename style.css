@@ -2,7 +2,41 @@
 nav {
     color: white;
   }
+
+  .previewimg{
+    margin: auto;
+    padding:0;
+  }
   
+/* Style for the company list */
+.company-list {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Style for the list items */
+.company-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.company-list li {
+  font-size: 18px;
+  margin: 5px 0;
+  padding: 5px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Hover effect */
+.company-list li:hover {
+  background-color: #f2f2f2;
+}
+
+
   /* Body */
   body {
     margin: 0;
@@ -13,6 +47,11 @@ nav {
   .card-deck {
     margin: 0;
     padding: 20px;
+  }
+
+  .navbar-brand{
+    color: #000;
+   background: violet;
   }
   
   /* Footer */
@@ -62,6 +101,7 @@ nav {
     line-height: 1.4;
     margin-bottom: 10px;
   }
+  
   
   /* BASIC SETUP */
   
@@ -123,6 +163,9 @@ nav {
   
   .nav-item a:hover {
     color: #3498db;
+  }
+  h3{
+    text-decoration: double;
   }
   
   /* SECTIONS */
